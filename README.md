@@ -48,8 +48,6 @@ Entre as informações exploradas estão dados relacionados a:
  ┗ 📁 Dados
 ```
 
----
-
 ## Autor 
 
 **Thales Trajano**
