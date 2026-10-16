@@ -50,3 +50,8 @@ Entre as informações exploradas estão dados relacionados a:
 
 ---
 
+## Autor 
+
+**Thales Trajano**
+
+GitHub: [@Thales1904](https://github.com/Thales1904)
